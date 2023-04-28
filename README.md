@@ -7,3 +7,17 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
+
+## Demonstration Video
+
+![Video](./Assets/demo.gif)
+
+## Technology Used
+
+* [MySQL2](https://www.w3schools.com/MySQL/default.asp)
+
+* [Insonmia](https://docs.insomnia.rest/insomnia/get-started)
+
+* [Express JS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+
+* [Sequelize](https://sequelize.org/docs/v6/)
